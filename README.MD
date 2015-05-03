@@ -2,7 +2,7 @@
 
 This is my own search engine powered by `Google Custom Search`.
 - One is for Searching in Sieyuan Home Page.
-- One is for searching in Python Tutorial Home.
+- One is for Searching in Python Tutorial Home.
 
 利用GCS实现了类似站内搜索的功能。
 
